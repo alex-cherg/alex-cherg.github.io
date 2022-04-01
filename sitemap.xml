@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://cherganski.com/categories/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cherganski.com/categories/mathematics/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cherganski.com/posts/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cherganski.com/posts/all-triangles-are-equilateral/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cherganski.com/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cherganski.com/categories/machine-learning/</loc>
+    <lastmod>2021-04-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cherganski.com/posts/supervised-learning-a-probabilistic-perspective/</loc>
+    <lastmod>2021-04-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cherganski.com/posts/3d-object-reconstruction-with-rgb-depth-normals/</loc>
+    <lastmod>2020-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cherganski.com/pages/about/</loc>
+  </url><url>
+    <loc>https://cherganski.com/pages/</loc>
+  </url><url>
+    <loc>https://cherganski.com/tags/</loc>
+  </url>
+</urlset>

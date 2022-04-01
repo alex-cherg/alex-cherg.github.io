@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>machine-learning on The Blog of Cherganski</title>
+    <link>https://cherganski.com/categories/machine-learning/</link>
+    <description>Recent content in machine-learning on The Blog of Cherganski</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://cherganski.com/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Supervised Learning - A Probabilistic Definition</title>
+      <link>https://cherganski.com/posts/supervised-learning-a-probabilistic-perspective/</link>
+      <pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cherganski.com/posts/supervised-learning-a-probabilistic-perspective/</guid>
+      <description>\( \newcommand{\exp}{\mathbb{E}} \newcommand{\var}{\mathbb{Var}} \newcommand{\std}{\sigma} \newcommand{\prob}{\mathrm{Pr}} \newcommand{\distr}{P} \)
+Introduction &amp;amp; motivation One of the main problems in the field of machine learning (a.k.a. statistical learning) is the supervised learning problem (SLP). It has been explained so far in numerous books, papers and blog posts. It has been presented in different levels of formality and targeted at various audiences. What I have observed is that many people think of it as just function approximation (incl.</description>
+    </item>
+    
+    <item>
+      <title>3D Object Reconstruction with RGB, Depth and Normals Data</title>
+      <link>https://cherganski.com/posts/3d-object-reconstruction-with-rgb-depth-normals/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cherganski.com/posts/3d-object-reconstruction-with-rgb-depth-normals/</guid>
+      <description>Master&amp;rsquo;s thesis report Link (.pdf): 3D Object Reconstruction with RGB, Depth and Normals Data
+Abstract Recently the field of computer vision has given rise to various machine learning based approaches to 3D object reconstruction. This project examines the state of the art progress in the field and improves upon one particular model. Neural Volumes by Facebook Reality Labs manages to reconstruct animated objects from RGB images taken from various view points.</description>
+    </item>
+    
+  </channel>
+</rss>

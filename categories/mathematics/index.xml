@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mathematics on The Blog of Cherganski</title>
+    <link>https://cherganski.com/categories/mathematics/</link>
+    <description>Recent content in mathematics on The Blog of Cherganski</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cherganski.com/categories/mathematics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Proof: All Triangles Are Equilateral</title>
+      <link>https://cherganski.com/posts/all-triangles-are-equilateral/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cherganski.com/posts/all-triangles-are-equilateral/</guid>
+      <description>\( \newcommand{\degree}{^{\circ}} \)
+Proof First, we are going to prove the following lemma:
+Lemma: Any triangle is isosceles w.r.t. arbitrary two sides (i.e. any two sides are of equal length). Proof: \( \square \) Let the triangle be \( ABC \). We&amp;rsquo;ll prove that \( AC = BC \). Here is a figure of the triangle with a few additional constructions, which we&amp;rsquo;ll define bellow:
+  Figure of \( \triangle ABC \)  Constructions: Let \( M_C \) be the midpoint of side \( AB \).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on The Blog of Cherganski</title>
+    <link>https://cherganski.com/page/</link>
+    <description>Recent content in Pages on The Blog of Cherganski</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://cherganski.com/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://cherganski.com/page/about/</link>
+      <pubDate>Sat, 03 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cherganski.com/page/about/</guid>
+      <description>About Hi! I am Aleksandar Cherganski and this is my personal blog about anything I find interest and have the urge to share with other people. Throughout high school I participated in many mathematical competition (such as the International Mathematical Olympiad) and I can proudly say that by heart I am a mathematician. In university I steered towards the more applied subject of Computer Science with a focus on Machine Learning.</description>
+    </item>
+    
+  </channel>
+</rss>

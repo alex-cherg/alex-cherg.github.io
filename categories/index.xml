@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on The Blog of Cherganski</title>
+    <link>https://cherganski.com/categories/</link>
+    <description>Recent content in Categories on The Blog of Cherganski</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cherganski.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>mathematics</title>
+      <link>https://cherganski.com/categories/mathematics/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cherganski.com/categories/mathematics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine-learning</title>
+      <link>https://cherganski.com/categories/machine-learning/</link>
+      <pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cherganski.com/categories/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
